@@ -1,2 +1,3 @@
 # Reinforcement_Learning_based_Pacman_Player
  
+Markov Decision Process (MDP) is a commonly used technique in the Reinforcemnet Learning (RL) literature to build adaptive learning agents that learn from its environment through a feedback mechanism. The feedback is provided often in the form of a reward function that enables the agent to understand the utility of the action it is taking. In this project, I develop a simple Pacman playing agent that iteratively learns to play the game. I implement both the Policy Iteration and the Value Iteration method to investigate their behavior. Please read Problem 9.4 of the pdf to better understand the implementation.
